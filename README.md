@@ -1,5 +1,8 @@
 # Getting-and-Cleaning-Data-Course-Project
 
+This Readme file is a copy of the readme-file found within the following download and explains all the files used for analysis:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
