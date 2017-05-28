@@ -9,8 +9,8 @@ In this course project the following steps are taken:
 5. From the data set in step 4, creating a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Packages used:
-curl		to download files via https
-dplyr		to tidy the dataset
+- curl		to download files via https
+- dplyr		to tidy the dataset
 
 
 Original Project:

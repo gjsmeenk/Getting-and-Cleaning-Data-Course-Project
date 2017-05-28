@@ -3,10 +3,10 @@
 For this project the subject, activity, all mean() and std() variables were extracted.
 All mean and std-varibales were grouped by subject and activity and the average was calculated
 
-subject:	integer, containing the id of each subject
-activity:	factor, containing descriptive labels for each activity
-mean-variables	double, countaining the average of the mean-varibleas (per subject and activity)
-std-variables	double, countaining the average of the std-varibleas (per subject and activity)
+- subject:		integer, containing the id of each subject
+- activity:		factor, containing descriptive labels for each activity
+- mean-variables	double, countaining the average of the mean-varibleas (per subject and activity)
+- std-variables		double, countaining the average of the std-varibleas (per subject and activity)
 
 
 Feature Selection (codebook of the original study)
